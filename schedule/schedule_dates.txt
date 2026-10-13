@@ -1,0 +1,175 @@
+PH_PRE       2026-10-02 -> 2026-12-03  Preconstruction, Design & Approvals
+  cvc          2026-10-02 -> 2026-10-02  CVC Permit 26/255 issued (expires Oct 2, 2028)
+  zoning       2026-10-13 -> 2026-10-22  Zoning review - City of Mississauga
+  a100         2026-10-13 -> 2026-10-15  Correct A100 coverage table and CVC permit owner name
+  wd           2026-10-13 -> 2026-10-29  Working drawings - architectural & structural (incl. basemen
+  permit_sub   2026-10-29 -> 2026-10-29  Building permit application submitted
+  permit_rev   2026-10-30 -> 2026-12-03  City permit review incl. one comment cycle (assumed 25 worki
+  permit       2026-12-03 -> 2026-12-03  Building permit issued
+  budget4      2026-10-13 -> 2026-10-20  Budget Revision 4 - anchor budget to current scope (incl. lo
+  id_dwgs      2026-10-13 -> 2026-11-02  Interior design drawings & ID budget (Vicky)
+  nz_price     2026-10-13 -> 2026-10-26  Net Zero palette - incremental pricing by item
+  nz_dec       2026-10-27 -> 2026-11-02  Client decision - Net Zero direction, fireplace, window spec
+  slab_price   2026-10-13 -> 2026-10-26  Price basement slab insulation options A / B incl. height lo
+  slab_dec     2026-10-27 -> 2026-11-02  Client decision - basement slab option
+  ug_price     2026-10-13 -> 2026-11-02  Underground hydro service - pricing from City / Alectra
+  ug_dec       2026-11-03 -> 2026-11-09  Client decision - underground hydro service
+  gen_dec      2026-10-19 -> 2026-11-06  Generator sizing, pricing & client decision
+  insurance    2026-10-13 -> 2026-10-14  Confirm builder's risk / wrap-up insurance & issue PO
+PH_PROC      2026-10-13 -> 2027-04-27  Tendering, Trade Awards & Long-Lead Procurement
+  aw_demo      2026-10-13 -> 2026-10-14  Award demolition (recommend Manpower - $49,025 incl. asbesto
+  aw_fence     2026-10-13 -> 2026-10-14  PO site hoarding, fence & silt control
+  aw_hydro_book 2026-10-13 -> 2026-11-02  Book Alectra overhead disconnect & temp pole
+  aw_exc       2026-10-13 -> 2026-10-22  Excavation quotes - Kruno / Grizzly; all-in-one vs. separate
+  aw_fdn       2026-10-23 -> 2026-10-29  Award excavation, foundation & underpinning (recommend EECF)
+  aw_frame     2026-10-13 -> 2026-11-02  Tender & award framing labour (RamPeel, King, Murray, Sunval
+  aw_lumber    2026-11-03 -> 2026-11-16  PO lumber & roof framing; delivery
+  aw_steel     2026-10-30 -> 2026-11-26  Steel beams - confirm scope, shop drawings, fabricate
+  win_meas     2026-10-15 -> 2026-10-19  Measure brick openings; issue window / mill schedule
+  win_tender   2026-10-20 -> 2026-11-02  Window tender - double vs. triple pane, heritage profile
+  win_po       2026-11-03 -> 2026-11-05  Window, exterior door & skylight PO
+  win_fab      2026-11-06 -> 2027-01-25  Window, door & skylight fabrication & delivery (~10 wks)
+  hvac_des     2026-11-05 -> 2026-11-25  HVAC design / heat loss - heat pump, HRV/ERV per Net Zero di
+  aw_hvac      2026-11-26 -> 2026-12-02  Award HVAC / mechanical
+  aw_plumb     2026-12-01 -> 2026-12-14  Award plumbing
+  aw_elec      2026-12-01 -> 2026-12-14  Award electrical (confirm EV charging, solar & AV scope)
+  aw_drywall   2027-01-04 -> 2027-01-15  Award insulation & drywall
+  aw_finish    2027-03-01 -> 2027-03-19  Award finishing trades - tile, flooring, trim, paint
+  cab_design   2027-01-04 -> 2027-01-29  Kitchen & cabinetry design approval
+  cab_shops    2027-02-01 -> 2027-02-22  Cabinetry shop drawings & sign-off
+  cab_fab      2027-02-23 -> 2027-04-27  Cabinetry fabrication
+  stair_shops  2027-03-04 -> 2027-04-15  Interior stair & railing shop drawings & fabrication
+PH_SEL       2026-11-03 -> 2027-04-07  Owner & Interior Design Selections
+  sel_elec     2026-11-03 -> 2026-11-16  Electrical, lighting & AV / automation layouts
+  sel_plumb    2026-11-03 -> 2026-11-16  Plumbing fixtures & bathroom layouts (curbless showers ensui
+  sel_fp       2026-11-03 -> 2026-11-09  Fireplace / logsets & mantels
+  sel_ext      2027-01-11 -> 2027-01-22  Exterior - cedar shake, metal panel, colours, railings, gara
+  sel_floor    2027-02-01 -> 2027-02-12  Hardwood, floor tile & wall tile
+  sel_trim     2027-02-16 -> 2027-03-01  Trim, interior doors, plaster mouldings, hardware
+  sel_appl     2027-02-01 -> 2027-02-05  Appliances
+  sel_counter  2027-03-15 -> 2027-03-29  Countertop slabs, shower glass & bath hardware
+  sel_paint    2027-04-01 -> 2027-04-07  Paint finish schedule
+PH_MOB       2026-10-15 -> 2026-10-19  Site Mobilization & Pre-Demolition
+  possession   2026-10-15 -> 2026-10-15  Site possession - family moved out (confirm Oct 15)
+  bk_audit     2026-10-15 -> 2026-10-15  Building Knowledge as-is audit & baseline air test
+  hst_doc      2026-10-15 -> 2026-10-15  Pre-demolition condition photos (HST rebate documentation)
+  dss          2026-10-15 -> 2026-10-15  Designated substance / hazardous materials confirmation
+  sign         2026-10-15 -> 2026-10-15  Job site sign & Notice of Project posted
+  fence        2026-10-15 -> 2026-10-16  Site fencing, tree protection & erosion / sediment controls
+  temp_fac     2026-10-15 -> 2026-10-15  Temp facilities - porta potty, bins, security, internet
+  salvage      2026-10-16 -> 2026-10-19  Remove, label & store salvage items
+PH_DEMO      2026-10-20 -> 2026-11-19  Interior Demolition (non-structural, pre-permit)
+  abate        2026-10-20 -> 2026-10-22  Asbestos abatement - 2nd floor SW & SE bedroom ceilings
+  demo_loft    2026-10-20 -> 2026-10-23  Strip-out - loft / 3rd floor
+  demo_2nd     2026-10-26 -> 2026-11-03  Strip-out - second floor
+  demo_main    2026-11-04 -> 2026-11-12  Strip-out - main floor
+  demo_bsmt    2026-11-13 -> 2026-11-19  Strip-out - basement
+  hvac_walk    2026-11-04 -> 2026-11-04  HVAC designer as-is walk (ducting exposed)
+  ri_assess    2026-11-13 -> 2026-11-17  Assess existing rough-ins - keep / replace decisions
+  demo_done    2026-11-19 -> 2026-11-19  Interior demolition complete  <-- target 2026-11-20  ok
+PH_UTIL      2026-11-20 -> 2027-01-27  Utilities & Temporary Services
+  temp_hydro   2026-11-20 -> 2026-11-23  Disconnect overhead service; temp pole & panel
+  ug_install   2027-01-21 -> 2027-01-27  Permanent hydro service (underground if approved)
+  gas_rr       2027-01-21 -> 2027-01-25  Gas service remove & reinstall as required (Enbridge)
+PH_SITE      2026-12-04 -> 2027-01-20  Site Work, Excavation & Foundations (rear addition)
+  cvc_notice   2026-12-04 -> 2026-12-04  CVC 48-hr notice of commencement; permit card posted
+  stakeout     2026-12-07 -> 2026-12-07  Survey stake-out of addition
+  ext_demo     2026-12-07 -> 2026-12-10  Structural demo - rear deck / porch, openings, 2nd-floor bum
+  topsoil      2026-12-08 -> 2026-12-08  Strip & stockpile topsoil
+  excavate     2026-12-11 -> 2026-12-15  Excavate rear addition
+  underpin     2026-12-16 -> 2027-01-07  Underpinning - 8 sections, sequenced
+  ftg_form     2026-12-16 -> 2026-12-17  Layout, pin & form footings
+  ftg_insp     2026-12-18 -> 2026-12-18  Footing inspection
+  ftg_pour     2026-12-21 -> 2026-12-21  Pour footings (winter heat)
+  wall_form    2026-12-22 -> 2027-01-04  Form foundation walls & install rebar
+  eng_insp     2027-01-05 -> 2027-01-05  Engineer's rebar inspection
+  wall_pour    2027-01-08 -> 2027-01-08  Pour foundation walls
+  wall_strip   2027-01-11 -> 2027-01-12  Strip forms; check heights & anchor bolts
+  wall_wp      2027-01-13 -> 2027-01-15  Membrane, 2" exterior insulation, weepers, stone & sump
+  asbuilt      2027-01-13 -> 2027-01-13  Foundation as-built survey
+  bf_insp      2027-01-18 -> 2027-01-18  Backfill inspection
+  backfill     2027-01-19 -> 2027-01-20  Backfill & rough grade
+PH_FRAME     2026-12-04 -> 2027-03-03  Framing & Structure
+  int_frame    2026-12-04 -> 2026-12-17  Interior structural alterations - openings, beams, bulkheads
+  steel        2027-01-21 -> 2027-01-22  Install steel beams / posts
+  fr_deck      2027-01-25 -> 2027-01-28  Frame main floor deck - rear addition
+  fr_walls     2027-01-29 -> 2027-02-05  Frame addition walls & flat roof
+  fr_bays      2027-02-08 -> 2027-02-18  Cantilevered box bays, 2nd-floor infill & balcony
+  sheath       2027-02-19 -> 2027-02-26  Roof & wall sheathing; Zip-R outsulation
+  fr_review    2027-03-01 -> 2027-03-03  Framing review - point loads, engineer review, deficiencies
+PH_ENV       2027-01-26 -> 2027-03-08  Building Envelope - Weathertight
+  temp_encl    2027-02-08 -> 2027-02-10  Temporary enclosure, tarping & winter heat
+  flat_roof    2027-03-01 -> 2027-03-03  Flat roof membrane & flashings (addition, balcony)
+  shingle      2027-03-04 -> 2027-03-08  Shingle roof tie-ins & repairs
+  win_exist    2027-01-26 -> 2027-02-04  Replace designated windows & doors in existing openings
+  win_add      2027-03-01 -> 2027-03-04  Install windows & doors - rear addition & box bays
+  skylight     2027-03-04 -> 2027-03-05  Install architectural skylight
+  watertight   2027-03-08 -> 2027-03-08  Watertight  <-- target 2027-01-15  LATE
+PH_SLAB      2027-02-11 -> 2027-02-25  Basement Slab & Underground Services
+  ug_plumb     2027-02-11 -> 2027-02-17  Subgrade drains & underground plumbing
+  drain_insp   2027-02-18 -> 2027-02-18  Underground drain inspection
+  slab_ins     2027-02-19 -> 2027-02-22  Under-slab insulation, radon / vapour barrier
+  hydronic     2027-02-23 -> 2027-02-24  In-floor hydronic tubing (if carried in mechanical design)
+  slab_pour    2027-02-25 -> 2027-02-25  Pour basement slab
+PH_RI        2026-12-18 -> 2027-03-22  Mechanical, Electrical & Low-Voltage Rough-In
+  ri_plumb     2026-12-18 -> 2027-01-11  Rough-in plumbing - existing house
+  ri_hvac      2026-12-18 -> 2027-01-13  Rough-in HVAC - duct rework, heat pump / HRV-ERV - existing 
+  ri_gas       2027-01-05 -> 2027-01-07  Rough-in gas - fireplace, range, BBQ manifold
+  ri_elec      2026-12-23 -> 2027-01-18  Rough-in electrical incl. EV charger & solar conduit - exist
+  ri_lv        2027-01-08 -> 2027-01-14  Rough-in low voltage - data, security, AV, intercom reinstat
+  ri_walk      2027-01-19 -> 2027-01-20  Rough-in walkthrough with client & ID; changes
+  ri_insp      2027-01-21 -> 2027-01-25  Rough-in inspections - existing house (plumbing, HVAC, frami
+  ri_done      2027-01-25 -> 2027-01-25  Rough-in inspections passed - existing house  <-- target 2027-02-05  ok
+  ri_add       2027-03-09 -> 2027-03-18  Rough-in all trades - rear addition & box bays
+  ri_insp_add  2027-03-19 -> 2027-03-22  Rough-in inspections - rear addition
+PH_DW        2027-01-14 -> 2027-05-05  Insulation, Air Sealing & Drywall
+  aeroseal     2027-01-14 -> 2027-01-15  AeroSeal duct sealing (reused ductwork)
+  insul        2027-01-26 -> 2027-02-02  Insulation & VB - existing house, sound insulation
+  insul_add    2027-03-23 -> 2027-03-25  Insulation & VB - addition, ceiling spray foam
+  insul_insp   2027-03-29 -> 2027-03-29  Insulation / VB inspection
+  bd_mid       2027-03-30 -> 2027-03-30  Mid-construction blower door test
+  board        2027-03-31 -> 2027-04-15  Board drywall
+  tape         2027-04-07 -> 2027-04-22  Tape & finish drywall
+  prime        2027-04-23 -> 2027-04-27  Prime drywall (tinted)
+  plaster      2027-04-28 -> 2027-05-05  Plaster mouldings
+  hvac_on      2027-04-27 -> 2027-04-27  Interior environment controlled (permanent HVAC running)
+PH_FIN       2027-04-28 -> 2027-07-20  Interior Finishes
+  tile_floor   2027-04-28 -> 2027-05-13  Floor tile & Schluter waterproofing
+  hardwood     2027-05-05 -> 2027-05-26  Hardwood & LVP
+  stairs       2027-05-12 -> 2027-05-18  Install interior stairs & railings
+  trim         2027-05-06 -> 2027-06-10  Doors, trim, panelling, closets & shelving
+  cab_inst     2027-04-28 -> 2027-05-11  Install cabinetry - kitchen, island, servery, vanities, laun
+  counter      2027-05-12 -> 2027-05-28  Template, fabricate & install countertops
+  wall_tile    2027-05-31 -> 2027-06-18  Wall tile, showers & backsplashes
+  paint        2027-05-20 -> 2027-06-24  Interior painting
+  heritage     2027-06-11 -> 2027-06-17  Reinstall salvaged items; fireplace brick cladding & mantel
+  glass        2027-06-21 -> 2027-07-07  Shower glass - template, fabricate, install
+  appl         2027-05-31 -> 2027-06-01  Appliances delivery & install
+  plumb_fin    2027-06-21 -> 2027-06-25  Plumbing finishing - fixtures
+  elec_fin     2027-06-04 -> 2027-06-11  Electrical finishing - devices, pot lights, fixtures
+  hvac_fin     2027-06-25 -> 2027-06-29  HVAC finishing - grilles, humidifier, HRV balancing
+  hardware     2027-07-08 -> 2027-07-13  Door hardware, bath accessories, mirrors
+  floor_fin    2027-06-25 -> 2027-07-02  Sand & finish hardwood; stain stairs
+  touchup      2027-07-14 -> 2027-07-20  Final trade & paint touch-ups
+PH_EXT       2027-04-05 -> 2027-06-25  Exterior Finishes & Landscaping
+  siding       2027-04-05 -> 2027-04-16  Cedar shake siding
+  ext_trim     2027-04-12 -> 2027-04-30  Exterior trim, columns, fascia & soffits
+  masonry      2027-04-19 -> 2027-04-28  Masonry repointing & flagstone front porch
+  porch_ceil   2027-05-03 -> 2027-05-06  Porch ceilings - cedar T&G
+  troughs      2027-05-03 -> 2027-05-05  Eavestroughs & downspouts
+  solar        2027-05-03 -> 2027-05-07  Solar PV (required for Net Zero - not in budget)
+  deck         2027-05-03 -> 2027-05-12  Rear deck (Trex), balcony & exterior railings
+  ext_paint    2027-05-07 -> 2027-05-25  Exterior painting & caulking
+  garage_dr    2027-05-26 -> 2027-05-27  Garage door
+  hardscape    2027-05-26 -> 2027-06-15  Hard landscaping - interlock, walls, fences
+  softscape    2027-06-16 -> 2027-06-25  Soft landscaping & restoration of disturbed areas
+  cvc_close    2027-06-25 -> 2027-06-25  CVC notice of completion
+PH_CLOSE     2027-07-21 -> 2027-08-17  Commissioning, Inspections & Handover
+  bd_final     2027-07-21 -> 2027-07-22  Final blower door & EnerGuide / Net Zero labelling test
+  duct_clean   2027-07-21 -> 2027-07-21  Duct cleaning
+  final_insp   2027-07-21 -> 2027-07-23  Final building inspection
+  clean        2027-07-26 -> 2027-07-29  Final cleaning, windows & power wash
+  pdi          2027-07-30 -> 2027-08-03  Client walkthrough & deficiency list
+  occupancy    2027-07-29 -> 2027-07-29  Occupancy / substantial completion  <-- target 2027-08-30  ok
+  movein       2027-08-03 -> 2027-08-03  Client move-in  <-- target 2027-09-01  ok
+  defs         2027-08-04 -> 2027-08-17  Deficiency completion

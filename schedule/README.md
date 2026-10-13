@@ -33,7 +33,7 @@ The calendar ("Chatsworth Standard": Mon–Fri, Ontario stat holidays, Dec 24–
 | Interior demo complete: mid-Nov | Nov 19, 2026 | On target |
 | Watertight: mid-Jan | Mar 8, 2027 | **About 7 weeks late.** Foundations can't start until the permit is issued (Dec 3). The existing house is weathertight by Feb 4 once its windows are in. |
 | Rough-in inspections: early Feb | Jan 25, 2027 (existing house) | On target |
-| Insulation & drywall: April | Feb 16 – May 5, 2027 | On target |
+| Insulation & drywall: April | Insulation from Jan 26 (existing house); drywall Mar 31 – Apr 27, 2027 | On target |
 | Occupancy: Aug 30, 2027 | Jul 29, 2027 | About 4 weeks of float |
 | Client move-in: Sep 1, 2027 | Aug 3, 2027 | On target |
 
